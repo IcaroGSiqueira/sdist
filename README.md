@@ -1,1 +1,1 @@
-# sdist
+# Repositório de trabalhos e avaliações da disciplina de Sistemas Distribuídos
